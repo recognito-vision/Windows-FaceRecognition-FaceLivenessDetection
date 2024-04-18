@@ -1,0 +1,4 @@
+pillow
+numpy
+opencv-python
+gradio
