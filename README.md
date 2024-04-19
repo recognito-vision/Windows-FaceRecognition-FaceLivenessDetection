@@ -45,7 +45,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
 
    **Important Note**: When install `python-3.8.9.exe`, have to tick the `Add Python3.8 to PATH` option.
    
-      <img src="https://github.com/Recognito-Vision/Face-SDK-Windows-Demo/assets/153883841/97d5c639-3113-4e57-8a8d-2d9e69b02964" alt="Add Python3.8 to PATH" width="60%">
+      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/97d5c639-3113-4e57-8a8d-2d9e69b02964" alt="Add Python3.8 to PATH" width="60%">
 4. Install the Python package from the desired demo folder. (`flask`, `gradio`, `video_surveillance_demo`)
    ```
    cd Windows-FaceRecognition-FaceLivenessDetection\gradio
@@ -58,7 +58,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
      ```
 - Get your HWID and share it with us
      
-     ![HWID](https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/4e375399-e533-4913-be9d-260251d97a6b)
+     ![HWID](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/4e375399-e533-4913-be9d-260251d97a6b)
      
     <div style="display: flex; align-items: center;">
         <a target="_blank" href="mailto:hassan@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
@@ -68,14 +68,14 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
     </div>
 - Copy the `license.txt` license file to the `engine` folder.
      
-     ![license](https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/0f774bb6-1233-40cc-bfdd-84cd06554c12)
+     ![license](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/0f774bb6-1233-40cc-bfdd-84cd06554c12)
 
 ## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/7ed1f28b-bb29-4c83-809c-015e2f8e38ad" alt="install" width="25">  Running Demo
 - Run `app.py` from the desired demo folder. (`flask`, `gradio`, `video_surveillance_demo`)
      ```
      python app.py
      ```
-   ![run](https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/b4a3d8eb-2870-4683-847e-f972fb79968e)
+   ![run](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/b4a3d8eb-2870-4683-847e-f972fb79968e)
 
 - **Video Surveillance Demo**
 
@@ -84,16 +84,16 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
   Media files, RTSP, web camera can be used as input video.
 
   <p align="center">
-      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/d36da9cc-0124-4d1b-814b-c18e8809f8ea" width="45%" />
-      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/4428f788-d641-4fed-9b6f-901212d1d454" width="45%" />
+      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/d36da9cc-0124-4d1b-814b-c18e8809f8ea" width="45%" />
+      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/4428f788-d641-4fed-9b6f-901212d1d454" width="45%" />
   </p>
   <p align="center">
-      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/093af24f-e95a-4cca-84e3-18d89661e549" width="45%" />
-      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/47065f6e-9971-41a3-a0cf-dfae9e8e3cf9" width="45%" />
+      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/093af24f-e95a-4cca-84e3-18d89661e549" width="45%" />
+      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/47065f6e-9971-41a3-a0cf-dfae9e8e3cf9" width="45%" />
   </p>
   <p align="center">
-      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/0a257855-5e35-4e6a-8a96-e646f8be6c19" width="45%" />
-      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/e51856ab-0f5a-4da1-9fe2-ba8efa04a0d9" width="45%" />
+      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/0a257855-5e35-4e6a-8a96-e646f8be6c19" width="45%" />
+      <img src="https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/e51856ab-0f5a-4da1-9fe2-ba8efa04a0d9" width="45%" />
   </p>
 - **Flask Demo**
 
