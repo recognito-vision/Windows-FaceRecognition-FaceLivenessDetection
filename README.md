@@ -11,7 +11,7 @@
     </a>  
 </p>
 
-# On-Premise Face SDK Demo (Windows Server)
+# On-Premise Face Recognition, Liveness Detection, Face Attribute Analysis SDK Demo (Windows Server)
 Welcome to our Face SDK Demos repository! Here you will find demos showcasing the capabilities of our on-premise Face SDKs, including face recognition, liveness detection, and face attribute analysis. Our SDK is designed to work seamlessly on **Windows** Server platforms and can be integrated into various systems such as **eKYC** solutions and **CCTV** systems.
 
 ## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
@@ -19,12 +19,12 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
 - **Liveness Detection:** Determine whether a face is live or spoofed to prevent fraud in authentication processes.
 - **Face Attribute Analysis:** Extract facial attributes such as age, gender and more from facial images for demographic analysis.
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/c15b7c1d-346f-4b0b-ad1e-c65882b14d27" alt="list" width="25">  Windows Face SDK Demo Description
+## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/c15b7c1d-346f-4b0b-ad1e-c65882b14d27" alt="face recognition, liveness detection SDK demo description" width="25">  Windows Face SDK Demo Description
   | No.      | Demo | Description |
   |:------------------:|------------------|------------------|
-  | 1        | [Flask Demo](https://github.com/Recognito-Vision/Face-SDK-Windows-Demo/tree/main/flask)    | Flask Server Demo for 1:1 verification, liveness detection |
-  | 2        | [Gradio Demo](https://github.com/Recognito-Vision/Face-SDK-Windows-Demo/tree/main/gradio)    | Gradio UI Demo for 1:1 verification, liveness detection |
-  | 3        | [Video Surveillance Demo](https://github.com/Recognito-Vision/Face-SDK-Windows-Demo/tree/main/video_surveillance_demo)    | Video Surveillance Demo for 1:N identification |
+  | 1        | [Flask Demo](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/tree/main/flask)    | Flask Server Demo for 1:1 verification, liveness detection |
+  | 2        | [Gradio Demo](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/tree/main/gradio)    | Gradio UI Demo for 1:1 verification, liveness detection |
+  | 3        | [Video Surveillance Demo](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/tree/main/video_surveillance_demo)    | Video Surveillance Demo for 1:N identification |
 
 ## <img src="https://github.com/Recognito-Vision/Face-SDK-Windows-Demo/assets/153883841/8a641c1e-cd1b-4336-9bad-ceffd580daaf" alt="system" width="25">  System Requirements
  - **Windows System:** Windows 10 or later
@@ -37,9 +37,9 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo.git
+    git clone https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection.git
     ```
-   Download `engine` folder from [Here](https://drive.google.com/file/d/1VoRIvX9jrY4jbpZduK6Pplfil5Aelmhi/view?usp=drive_link) and extract to `Windows-FaceRecognition-LivenessDetection-SDK-Demo` folder.
+   Download `engine` folder from [Here](https://drive.google.com/file/d/1VoRIvX9jrY4jbpZduK6Pplfil5Aelmhi/view?usp=drive_link) and extract to `Windows-FaceRecognition-FaceLivenessDetection` folder.
    
 2. Install `python-3.8.9.exe`,  `VC_redist.2013.exe`, `VC_redist.2015-2022.exe` files from `dependency` folder.
 
@@ -48,7 +48,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
       <img src="https://github.com/Recognito-Vision/Face-SDK-Windows-Demo/assets/153883841/97d5c639-3113-4e57-8a8d-2d9e69b02964" alt="Add Python3.8 to PATH" width="60%">
 4. Install the Python package from the desired demo folder. (`flask`, `gradio`, `video_surveillance_demo`)
    ```
-   cd Windows-FaceRecognition-LivenessDetection-SDK-Demo\gradio
+   cd Windows-FaceRecognition-FaceLivenessDetection\gradio
    python -m pip install -r requirements.txt
    ```
 ## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/1c0d0786-c03f-42f2-9f9f-d9bf91778162" alt="install" width="25">  Setting Up SDK License Key  (Trial License Available)
@@ -61,7 +61,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
      ![HWID](https://github.com/Recognito-Vision/Windows-FaceRecognition-LivenessDetection-SDK-Demo/assets/153883841/4e375399-e533-4913-be9d-260251d97a6b)
      
     <div style="display: flex; align-items: center;">
-        <a target="_blank" href="mailto:hello@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
+        <a target="_blank" href="mailto:hassan@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://wa.me/+14158003112"><img src="https://img.shields.io/badge/whatsapp-+14158003112-blue.svg?logo=whatsapp " alt="www.recognito.vision"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://t.me/recognito_vision"><img src="https://img.shields.io/badge/telegram-@recognito__vision-blue.svg?logo=telegram " alt="www.recognito.vision"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito__workspace-blue.svg?logo=slack " alt="www.recognito.vision"></a>
@@ -117,7 +117,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
 For any questions, issues, or feature requests, please contact our support team.
 
 <div style="display: flex; align-items: center;">
-    <a target="_blank" href="mailto:hello@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
+    <a target="_blank" href="mailto:hassan@recognito.vision"><img src="https://img.shields.io/badge/email-hassan@recognito.vision-blue.svg?logo=gmail " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://wa.me/+14158003112"><img src="https://img.shields.io/badge/whatsapp-+14158003112-blue.svg?logo=whatsapp " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://t.me/recognito_vision"><img src="https://img.shields.io/badge/telegram-@recognito__vision-blue.svg?logo=telegram " alt="www.recognito.vision"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito__workspace-blue.svg?logo=slack " alt="www.recognito.vision"></a>
