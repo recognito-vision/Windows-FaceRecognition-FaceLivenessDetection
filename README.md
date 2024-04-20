@@ -1,5 +1,5 @@
 <a href="https://recognito.vision" style="display: flex; align-items: center;">
-    <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/b82f5c35-09d0-4064-a252-4bcd14e22407"/>
+    <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/b82f5c35-09d0-4064-a252-4bcd14e22407"/>
 </a><br/><br/>
 
 <p align="center">
@@ -14,12 +14,12 @@
 # On-Premise Face Recognition, Liveness Detection, Face Attribute Analysis SDK Demo (Windows Server)
 Welcome to our Face SDK Demos repository! Here you will find demos showcasing the capabilities of our on-premise Face SDKs, including face recognition, liveness detection, and face attribute analysis. Our SDK is designed to work seamlessly on **Windows** Server platforms and can be integrated into various systems such as **eKYC** solutions and **CCTV** systems.
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
 - **Face Recognition:** Identify and verify individuals by comparing their facial features.
 - **Liveness Detection:** Determine whether a face is live or spoofed to prevent fraud in authentication processes.
 - **Face Attribute Analysis:** Extract facial attributes such as age, gender and more from facial images for demographic analysis.
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/c15b7c1d-346f-4b0b-ad1e-c65882b14d27" alt="face recognition, liveness detection SDK demo description" width="25">  Windows Face SDK Demo Description
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/c15b7c1d-346f-4b0b-ad1e-c65882b14d27" alt="face recognition, liveness detection SDK demo description" width="25">  Windows Face SDK Demo Description
   | No.      | Demo | Description |
   |:------------------:|------------------|------------------|
   | 1        | [Flask Demo](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/tree/main/flask)    | Flask Server Demo for 1:1 verification, liveness detection |
@@ -32,7 +32,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
  - **RAM:** 8 GB
  - **HDD:** 8 GB
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/cd7a78b3-78da-4bd0-b12d-11771ab7345b" alt="install" width="25">  Installation
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/cd7a78b3-78da-4bd0-b12d-11771ab7345b" alt="install" width="25">  Installation
 
 1. Clone this repository to your local machine:
 
@@ -51,7 +51,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
    cd Windows-FaceRecognition-FaceLivenessDetection\gradio
    python -m pip install -r requirements.txt
    ```
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/1c0d0786-c03f-42f2-9f9f-d9bf91778162" alt="install" width="25">  Setting Up SDK License Key  (Trial License Available)
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/1c0d0786-c03f-42f2-9f9f-d9bf91778162" alt="install" width="25">  Setting Up SDK License Key  (Trial License Available)
 - Run `app.py` from the demo folder.
      ```
      python app.py
@@ -70,7 +70,7 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
      
      ![license](https://github.com/Recognito-Vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/0f774bb6-1233-40cc-bfdd-84cd06554c12)
 
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/7ed1f28b-bb29-4c83-809c-015e2f8e38ad" alt="install" width="25">  Running Demo
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/7ed1f28b-bb29-4c83-809c-015e2f8e38ad" alt="install" width="25">  Running Demo
 - Run `app.py` from the desired demo folder. (`flask`, `gradio`, `video_surveillance_demo`)
      ```
      python app.py
@@ -102,18 +102,18 @@ Welcome to our Face SDK Demos repository! Here you will find demos showcasing th
     - `http://{xx.xx.xx.xx}:8000/api/compare_face`
     - `http://{xx.xx.xx.xx}:8000/api/analyze_face`
 
-    <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/3e078019-b760-4798-a058-d61165fd78af" alt="lite-recognition-flask" width="90%"><br/>
-    <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/c5d54556-7c55-4a18-b9f9-cf3b21e2f1e8" alt="lite-liveness-flask" width="90%">
+    <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/3e078019-b760-4798-a058-d61165fd78af" alt="lite-recognition-flask" width="90%"><br/>
+    <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/c5d54556-7c55-4a18-b9f9-cf3b21e2f1e8" alt="lite-liveness-flask" width="90%">
 
 - **Gradio:**
   
     Go to [http://127.0.0.1:7860/](http://127.0.0.1:7860/) on a web browser.
   
-    <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/dab63403-0d9d-45f9-810c-810c22e4ad8d" alt="lite-recognition-gradio" width="90%">
+    <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/dab63403-0d9d-45f9-810c-810c22e4ad8d" alt="lite-recognition-gradio" width="90%">
 
-    <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/6f5c117b-1d5c-4ad9-8980-c1eb26fc6d25" alt="lite-liveness-gradio" width="90%">
+    <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/6f5c117b-1d5c-4ad9-8980-c1eb26fc6d25" alt="lite-liveness-gradio" width="90%">
     
-## <img src="https://github.com/Recognito-Vision/Face-SDK-Linux-Demos/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">  Support
+## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/78c5efee-15f3-4406-ab4d-13fd1182d20c" alt="contact" width="25">  Support
 For any questions, issues, or feature requests, please contact our support team.
 
 <div style="display: flex; align-items: center;">
