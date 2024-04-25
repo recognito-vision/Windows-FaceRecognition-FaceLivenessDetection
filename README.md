@@ -14,6 +14,8 @@
 # On-Premise Face Recognition, Liveness Detection, Face Attribute Analysis SDK Demo (Windows Server)
 Welcome to our Face SDK Demos repository! Here you will find demos showcasing the capabilities of our on-premise Face SDKs, including face recognition, liveness detection, and face attribute analysis. Our SDK is designed to work seamlessly on **Windows** Server platforms and can be integrated into various systems such as **eKYC** solutions and **CCTV** systems.
 
+For more details and documentation, visit [Recognito Product](https://github.com/Recognito-Vision/Product-List) and [https://docs.recognito.vision/](https://docs.recognito.vision/).
+
 ## <img src="https://github.com/Recognito-Vision/Linux-FaceRecognition-FaceLivenessDetection/assets/153883841/d0991c83-44f0-4d38-bcc8-74376ce93ded" alt="feature" width="25">  Features
 - **Face Recognition:** Identify and verify individuals by comparing their facial features.
 - **Liveness Detection:** Determine whether a face is live or spoofed to prevent fraud in authentication processes.
