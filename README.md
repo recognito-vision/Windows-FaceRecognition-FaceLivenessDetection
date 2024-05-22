@@ -61,7 +61,7 @@ Our [**Product List**](https://github.com/recognito-vision/Product-List/) for ID
      ```
      python app.py
      ```
-- Get your HWID and share it with us
+- Get your HWID and share it with us for trial license.
      
      ![HWID](https://github.com/recognito-vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/4e375399-e533-4913-be9d-260251d97a6b)
      
@@ -71,7 +71,7 @@ Our [**Product List**](https://github.com/recognito-vision/Product-List/) for ID
         &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://t.me/recognito_vision"><img src="https://img.shields.io/badge/telegram-@recognito__vision-blue.svg?logo=telegram " alt="www.recognito.vision"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://join.slack.com/t/recognito-workspace/shared_invite/zt-2d4kscqgn-"><img src="https://img.shields.io/badge/slack-recognito__workspace-blue.svg?logo=slack " alt="www.recognito.vision"></a>
     </div>
-- Copy the `license.txt` license file to the `engine` folder.
+- Copy the `license.txt` license file received from us to the `engine` folder.
      
      ![license](https://github.com/recognito-vision/Windows-FaceRecognition-FaceLivenessDetection/assets/153883841/0f774bb6-1233-40cc-bfdd-84cd06554c12)
 
